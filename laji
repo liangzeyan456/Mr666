@@ -1,0 +1,12 @@
+http = a1.ap.fastqvpn.com:29980, username =  442983264794185728, password = b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false,fast-open = false, udp-relay = false, tag = 1公众号：Mr科技社
+http = a2.ap.fastqvpn.com:29980, username =  442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false,fast-open = false, udp-relay = false, tag = 2公众号：Mr科技社
+http = a3.ap.fastqvpn.com:29980, username =  442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false,fast-open = false, udp-relay = false, tag = 3公众号：Mr科技社
+http = a4.ap.fastqvpn.com:29980, username =  442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false,fast-open = false, udp-relay = false, tag = 4公众号：Mr科技社
+http = a1.er3.xyz:29980, username =  442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false,fast-open = false, udp-relay = false, tag = 5公众号：Mr科技社
+http = global.ap.fastqvpn.com:29986,username =  442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false, fast-open = false, udp-relay = false, tag = 6公众号：Mr科技社
+http = global.ap.fastqvpn.com:29982, username =  442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false, fast-open = false, udp-relay = false, tag = 7公众号：Mr科技社
+http = global.ap.fastqvpn.com:29983, username =  442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false, fast-open = false, udp-relay = false, tag = 8公众号：Mr科技社
+http = global.ap.fastqvpn.com:29984, username = 442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false, fast-open = false, udp-relay = false, tag = 9公众号：Mr科技社
+http = global.ap.fastqvpn.com:29987, username = 442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false, fast-open = false, udp-relay = false, tag = 10公众号：Mr科技社
+http = global.ap.fastqvpn.com:29988, username = 442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false, fast-open = false, udp-relay = false, tag = 11公众号：Mr科技社
+http = global.ap.fastqvpn.com:29985, username = 442983264794185728, password =  b270381c-8c99-47a6-87d0-ed0182955ea4, over-tls = true, tls-verification = false, fast-open = false, udp-relay = false, tag = 12公众号：Mr科技社
